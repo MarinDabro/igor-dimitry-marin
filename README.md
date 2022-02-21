@@ -31,9 +31,3 @@
 - [Images](#x-images)
 - [Emoji](#x-emoji)
 - [Table](#x-table) 
-
-- [External Link](#x-external-link)
-- [Internal Link](#x-internal-link) 
-- [Images](#x-images)
-- [Emoji](#x-emoji)
-- [Table](#x-table) 
