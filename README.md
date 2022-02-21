@@ -4,8 +4,8 @@
 ### - [x] External Link 
 ### - [x] Internal Link  
 ### - [x] Images
-### - [x] Emojis 
-### - [x] Tables 
+### - [x] FAT Emojis 
+### - [x] FAT Tables 
 
 [Link to the github Documentation](https://help.github.com/en)
 
